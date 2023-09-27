@@ -18,12 +18,14 @@ Best case: Aradığımız sayının dizinin en başında olması.
   [2,6,16,18,22,27] 1
 ```
 * Big-O gösterimini yazınız.
-  O(n^2) şeklinde gösterilir.
+```  
+ O(n^2) şeklinde gösterilir.
 ```
 
 * Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 ```
 Ortanca sayı olduğu için Average Case kapsamına girer.
+```
 
 * [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
